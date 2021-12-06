@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* 
+            子元素选择器：选定父元素指定的子元素
+        */
+        div > span{
+            color: olive;
+        }
+        /* 
+            后代选择器：可以选中指定元素内的后代
+        */
+        div span{
+            color: red;
+            font-size: 100px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- 
+        不同元素之间的关系：父子，祖先，后代，兄弟
+            父子：父元素直接包含子元素 
+                如：父div 子p
+            祖先：直接或间接包含后代的元素叫祖先元素（一个元素的父元素也是祖先元素）
+                如：div是p span的祖先 
+            兄弟：拥有相同父元素
+                如：p span
+
+     -->
+    <div>
+        我是div
+
+        <p>
+            我是div中的p
+            <br>
+            <span>
+                我是p中的span
+            </span>
+        </p>
+        <span>我是div的span</span>
+
+    </div>
+</body>
+
+</html>

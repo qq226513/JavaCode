@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--
+    超链接：可以让我们从一个页面跳转到其他页面，或者是当前页面的其他位置
+        --a标签
+            是一个行内元素，在a标签里可以嵌套除它自身外的任何元素
+            href指定要跳转的路径 
+            target指定超链接打开的位置
+                可选值
+                --_self 在当前页面中打开超链接
+                --_blank 在新页面打开超链接
+                --# 转到当前页面的顶部
+            id指定唯一标识，属性值区分大小写，不可重复
+            #id可以跳转到指定id的标签位置
+    如果href还不能指定值，可以将#作为路径的占位符，但是还是会使页面发生变化
+    所以可以用 javascript:;作为占位符，此时的超链接没有任何反应
+            
+    -->
+    <a href="#last">回到底部</a><br>
+    <a href="http://www.baidu.com">百度</a><br>
+    <a href="../语义化标签/html_demo03.html" target="_blank">内部</a><br>
+    <a href="#" id="last">回到顶部</a>
+    <a href="javascript:;">不懂</a>
+    
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- 
+        --audio 标签用来向页面引入一个外部的音频文件
+            属性
+                --controls 
+                    音视频文件引入时默认情况下不允许用户自己控制播放停止
+                    如果需要自己操作要加属性controls允许控制
+                --autoplay
+                    自动播放，一般不使用
+                --loop
+                    循环播放
+     -->
+    <!-- 下面两种写法展示内容相同 但是下面这种方法可以出现提示-->
+    <audio src="C:\Users\Walking\Music\VipSongsDownload\周杰伦 - 一路向北.mgg" controls autoplay loop></audio>
+    <audio controls>
+        您的浏览器不支持播放，请升级
+        <source src="C:\Users\Walking\Music\VipSongsDownload\周杰伦 - 一路向北.mgg">
+    </audio>
+    <!--  embed标签 在‘老版本浏览器’中提供音视频播放 会自动播放 要指定宽高 为保稳定要指定type 最好不使用-->
+    <embed src="C:\Users\Walking\Music\VipSongsDownload\周杰伦 - 一路向北.mgg" type="audio/mgg" width="200" height="50">
+    <!-- 
+            video标签 用来向网页引入视频 使用方式和audio基本相同
+     -->
+    <video controls>
+        <source src="">
+    </video>
+    
+    <!-- video，audio在ie8中都不兼容 embed在ie8兼容 -->
+</body>
+
+</html>

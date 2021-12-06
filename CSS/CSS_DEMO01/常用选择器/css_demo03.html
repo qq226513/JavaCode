@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- style是不属于html的，要遵循css的语法规范 -->
+    <style>
+        /* 
+            元素选择器：根据标签名来选中指定的元素
+        */
+        p {
+            color: rosybrown;
+            font-size: larger;
+        }
+
+        h1 {
+            color: palegoldenrod;
+            font-size: small;
+        }
+
+        /* 
+            id选择器：根据元素的id属性值选中一个元素
+        */
+        #name1 {
+            color: brown;
+        }
+
+        /* 
+            class选择器：根据元素的class属性中选中元素
+        */
+        .name2 {
+            color: gray;
+        }
+
+        .name3 {
+            color: cadetblue;
+        }
+
+        /* 
+            通配选择器：选中页面中的所有元素
+        */
+        *{
+            color: palegoldenrod;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>love</h1>
+    <p>今天天气真好</p>
+    <p id="name1">风也温柔</p>
+    <!-- 
+        class属性：和id类似，可以重复，一般用来实现分组，可以同时为一个元素指定多个class
+     -->
+    <p class="name2">两情若是久长时</p>
+    <p class="name2 name3">又岂在朝朝暮暮</p>
+    <p class="name3">人生若只如初见</p>
+</body>
+
+</html>

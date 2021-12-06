@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .red{
+            color: red;
+            font-size: 30px;
+        }
+        /* 
+            交集选择器：选中同时复合多个条件的元素
+            语法：选择器1选择器2...选择器n
+        */
+        div.red{
+            color: palegoldenrod;
+            font-size: 60px;
+        }
+      
+        #name0{
+            color: aliceblue;
+        }
+
+        /* 
+            并集选择器：同时选择多个选择器对应的元素
+        */
+        h1,span{
+            color: aquamarine;
+        }
+    </style>
+</head>
+<body>
+    <div class="red" >我是div</div>
+    <p class="red" id="name0">我是p</p>
+    <p class="red">我是p2</p>
+    <h1>我是h1</h1>
+    <span>我是span</span>
+</body>
+</html>
