@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5054134-b7ee-47a4-86f8-f342a5efcd2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1swDSPW5jAjC4gKYZhVmWXTApht" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="studyDAO.domain" />
+      <recent name="studyDAO.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JavaCode\JDBC\libs" />
+      <recent name="C:\JavaCode\JDBC\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.testActorDAO.t4">
+    <configuration name="testActorDAO" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="studyDAO.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="studyDAO.test" />
+      <option name="MAIN_CLASS_NAME" value="studyDAO.test.testActorDAO" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testActorDAO.t1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="studyDAO.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="studyDAO.test" />
+      <option name="MAIN_CLASS_NAME" value="studyDAO.test.testActorDAO" />
+      <option name="METHOD_NAME" value="t1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testActorDAO.t2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="studyDAO.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="studyDAO.test" />
+      <option name="MAIN_CLASS_NAME" value="studyDAO.test.testActorDAO" />
+      <option name="METHOD_NAME" value="t2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testActorDAO.t3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="studyDAO.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="studyDAO.test" />
+      <option name="MAIN_CLASS_NAME" value="studyDAO.test.testActorDAO" />
+      <option name="METHOD_NAME" value="t3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testActorDAO.t4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="studyDAO.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="studyDAO.test" />
+      <option name="MAIN_CLASS_NAME" value="studyDAO.test.testActorDAO" />
+      <option name="METHOD_NAME" value="t4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.testActorDAO.t4" />
+        <item itemvalue="JUnit.testActorDAO.t3" />
+        <item itemvalue="JUnit.testActorDAO.t2" />
+        <item itemvalue="JUnit.testActorDAO.t1" />
+        <item itemvalue="JUnit.testActorDAO" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5054134-b7ee-47a4-86f8-f342a5efcd2f" name="Default Changelist" comment="" />
+      <created>1621774757118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621774757118</updated>
+      <workItem from="1621774759865" duration="2908000" />
+      <workItem from="1621818579164" duration="315000" />
+      <workItem from="1621820798976" duration="6251000" />
+      <workItem from="1621853611706" duration="5132000" />
+      <workItem from="1621908700656" duration="4527000" />
+      <workItem from="1621938770061" duration="10763000" />
+      <workItem from="1621994938167" duration="27000" />
+      <workItem from="1621995010079" duration="717000" />
+      <workItem from="1621998495828" duration="815000" />
+      <workItem from="1622025451614" duration="662000" />
+      <workItem from="1622027632922" duration="1819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="214" key="#Project_Structure" timestamp="1621775280312">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="214" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1621775280312" />
+    <state x="617" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621776473308">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1621776473308" />
+    <state x="830" y="265" key="#com.intellij.ide.util.MemberChooser" timestamp="1621949799230">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="830" y="265" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1621949799230" />
+    <state width="434" height="466" key="DebuggerActiveHint" timestamp="1621826574154">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="434" height="466" key="DebuggerActiveHint/0.0.2048.1112@0.0.2048.1112" timestamp="1621826574154" />
+    <state width="1990" height="208" key="GridCell.Tab.0.bottom" timestamp="1621952185280">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1990" height="208" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1621952185280" />
+    <state width="1990" height="208" key="GridCell.Tab.0.center" timestamp="1621952185280">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1990" height="208" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1621952185280" />
+    <state width="1990" height="208" key="GridCell.Tab.0.left" timestamp="1621952185280">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1990" height="208" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1621952185280" />
+    <state width="1990" height="208" key="GridCell.Tab.0.right" timestamp="1621952185280">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1990" height="208" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1621952185280" />
+    <state width="1990" height="208" key="GridCell.Tab.1.bottom" timestamp="1621952185280">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1990" height="208" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1621952185280" />
+    <state width="1990" height="208" key="GridCell.Tab.1.center" timestamp="1621952185280">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1990" height="208" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1621952185280" />
+    <state width="1990" height="208" key="GridCell.Tab.1.left" timestamp="1621952185280">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1990" height="208" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1621952185280" />
+    <state width="1990" height="208" key="GridCell.Tab.1.right" timestamp="1621952185280">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1990" height="208" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1621952185280" />
+    <state x="526" y="198" key="SettingsEditor" timestamp="1621945227011">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="526" y="198" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1621945227011" />
+    <state x="741" y="449" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1621821366919">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="741" y="449" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2048.1112@0.0.2048.1112" timestamp="1621821366919" />
+    <state x="434" y="166" key="new project wizard" timestamp="1621994970319">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="434" y="166" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1621994970319" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1621940813418">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1621940813418" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version='1.0' ?>
+
+<users>
+    <user id = '11'>
+        <age>23</age>
+        <gender>male</gender>
+    </user>
+    <user id = '111'>
+        <age>233</age>
+        <gender>female</gender>
+    </user>
+</users>
